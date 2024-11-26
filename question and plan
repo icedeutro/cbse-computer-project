@@ -1,0 +1,24 @@
+the question is:
+examination management system:
+file handling method used to store records of students ina particular database file where you can perform operations
+such as add/del the details of the student, monitoring the attendace, set eligibility criteria for exams, check eligible students,
+room allotment for eligible students based on branch / semester. display all records of the student.
+
+functions
+1. add/del
+2. attendance
+3. eligibility criteria
+4. check eligibility
+5. room allotment for eligible students based on branch / semester
+
+database structure:
+per student we will have:
+1 admission number
+2 name
+3 attendance (present or absent)
+4 science marks
+5 math marks
+6 english marks
+7 branch
+8 semester
+
